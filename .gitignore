@@ -1,4 +1,7 @@
+**/*.zip
+**/*.zst
 wordpress/settings.json
+**/blockonomics-woocommerce
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
